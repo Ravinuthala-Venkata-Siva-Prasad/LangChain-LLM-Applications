@@ -1,2 +1,15 @@
-Langchain/
+# Virtual environment
+langchain/
+.venv/
+venv/
+
+# API keys
 .env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Streamlit secrets
+.streamlit/secrets.toml
