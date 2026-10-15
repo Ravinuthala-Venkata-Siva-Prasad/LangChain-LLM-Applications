@@ -8,3 +8,5 @@ langchain-groq
 langchain-huggingface
 requests
 beautifulsoup4
+sqlalchemy
+mysql-connector-python

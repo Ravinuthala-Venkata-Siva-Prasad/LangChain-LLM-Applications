@@ -33,13 +33,3 @@ An AI-powered research assistant built with Python, Streamlit, LangChain, and Gr
 - **arXiv API** – Research paper retrieval
 - **Python-dotenv** – Environment variable management
 
-## 🏗️ Project Structure
-
-```text
-Search-Engine-Wikipedia-Arxiv/
-│
-├── app.py
-├── Search_agent_tool.ipynb
-├── image.png
-├── README.md
-└── requirements.txt
